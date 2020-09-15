@@ -44,6 +44,6 @@ curl https://httpbin.org/get
 - https://www.baeldung.com/docker-compose
 
 ### Submission
-Submission requires only 2 files a Dockerfile to create the node application image and a docker-compose.yaml file to run and deploy the application with nginx and redis.
+Please fork the respository and add the files required to run and deploy the application with nginx and redis, you can then provide us with a link to the forked repository.
 
 Confirmation of a successful deployment can be determined by checking if the response of hitting nginx on port 80 matches the response when hitting https://httpbin.org/get 
